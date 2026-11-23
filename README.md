@@ -35,7 +35,7 @@ calculadoraGeometrica/
 Clonar el repositorio desde GitHub:
 
 ```bash
-git clone [https://github.com/aarriasol/calculadoraGeometrica.git](https://github.com/aarriasol/calculadoraGeometrica.git)
+git clone [https://github.com/arriasol/calculadoraGeometrica.git](https://github.com/arriasol/calculadoraGeometrica.git)
 cd calculadoraGeometrica
 ```
 
